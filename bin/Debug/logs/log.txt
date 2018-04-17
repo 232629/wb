@@ -1,0 +1,4 @@
+2018-04-10 18:47:21,893 [INFO ] - Start test TestGmail.gMail.SendMail.
+2018-04-10 18:47:35,289 [INFO ] - Stop test TestGmail.gMail.SendMail. Test status: Passed. Test time: 00:00:13.6922929 ms.
+2018-04-10 18:47:45,341 [INFO ] - Start test TestGmail.gMail.TakeMail.
+2018-04-10 18:47:54,503 [INFO ] - Stop test TestGmail.gMail.TakeMail. Test status: Passed. Test time: 00:00:09.1617662 ms.
